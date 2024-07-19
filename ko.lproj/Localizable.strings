@@ -269,7 +269,7 @@
 "Click menu bar item" = "메뉴 바 항목을 클릭하세요";
 
 /* No comment provided by engineer. */
-"Click Menu Bar Item (Enhanced mode only)" = "메뉴 바 항목 클릭 (확장모드에서만 가능)";
+"Click Menu Bar Item (Enhanced mode only)" = "메뉴 바 항목 클릭 (확장 모드에서만 가능)";
 
 /* No comment provided by engineer. */
 "Click menu bar item by identifier: ${itemIdentifier}" = "식별자별 메뉴 바 항목을 클릭하세요: ${itemIdentifier}";
@@ -374,10 +374,10 @@
 "Energy Saver" = "에너지 절약";
 
 /* No comment provided by engineer. */
-"Enhanced Mode" = "확장모드";
+"Enhanced Mode" = "확장 모드";
 
 /* No comment provided by engineer. */
-"Enhanced mode is only available for Notch screens" = "확장모드는 노치 스크린에서만 사용할 수 있습니다";
+"Enhanced mode is only available for Notch screens" = "확장 모드는 노치 스크린에서만 사용할 수 있습니다";
 
 /* No comment provided by engineer. */
 "Export" = "내보내기";
@@ -455,10 +455,10 @@
 "Get it for free" = "무료로 받기";
 
 /* No comment provided by engineer. */
-"Get  menu bar items" = "보이는 메뉴 바 항목 가져오기";
+"Get shown menu bar items" = "보이는 메뉴 바 항목 가져오기";
 
 /* No comment provided by engineer. */
-"Get  Menu Bar Items" = "보이는 메뉴 바 항목 가져오기";
+"Get shown Menu Bar Items" = "보이는 메뉴 바 항목 가져오기";
 
 /* No comment provided by engineer. */
 "Get Started" = "시작";
@@ -503,7 +503,7 @@
 "Hide All" = "모두 숨기기";
 
 /* No comment provided by engineer. */
-"Hide Menu Bar Item (Enhanced mode only)" = "메뉴 바 항목 숨기기 (확장모드 전용)";
+"Hide Menu Bar Item (Enhanced mode only)" = "메뉴 바 항목 숨기기 (확장 모드 전용)";
 
 /* No comment provided by engineer. */
 "Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "식별자로 메뉴 바 항목 숨기기: ${itemIdentifier}, X로: ${x}";
@@ -776,7 +776,7 @@
 "Open System Preferences..." = "시스템 환경설정 열기...";
 
 /* No comment provided by engineer. */
-"Please hold command(⌘) and drag the `<`, `|` and `Barbee icons` in the menu bar and place them in the correct order. The order is: always hidden icons `<` hidden icons `|`  icons `Barbee icon`." = "메뉴 바에서 COMMAND(⌘)을 누른 채로 `<`, `|`, 그리고 `Barbee 아이콘'을 드래그하여 올바른 순서로 배치해 주세요. 순서는 다음과 같습니다: 항상 숨겨진 아이콘 `<` 숨겨진 아이콘 `|` 보이는 아이콘 `Barbee 아이콘`.";
+"Please hold command(⌘) and drag the `<`, `|` and `Barbee icons` in the menu bar and place them in the correct order. The order is: always hidden icons `<` hidden icons `|` shown icons `Barbee icon`." = "메뉴 바에서 COMMAND(⌘)을 누른 채로 `<`, `|`, 그리고 `Barbee 아이콘'을 드래그하여 올바른 순서로 배치해 주세요. 순서는 다음과 같습니다: 항상 숨겨진 아이콘 `<` 숨겨진 아이콘 `|` 보이는 아이콘 `Barbee 아이콘`.";
 
 /* No comment provided by engineer. */
 "Preferences" = "설정";
@@ -929,16 +929,16 @@
 "SF Symbols" = "SF 심볼";
 
 /* No comment provided by engineer. */
-"Shortcut to show / hide all items:" = "모든 항목을 표시하거나 숨기는 바로 가기:";
+"Shortcut to show / hide all items:" = "모든 항목을 표시하거나 숨기는 단축키:";
 
 /* No comment provided by engineer. */
-"Shortcut to show / hide hidden items:" = "숨겨진 항목을 표시하거나 숨기는 바로 가기:";
+"Shortcut to show / hide hidden items:" = "숨겨진 항목을 표시하거나 숨기는 단축키:";
 
 /* No comment provided by engineer. */
-"Shortcut:" = "바로 가기:";
+"Shortcut:" = "단축키:";
 
 /* No comment provided by engineer. */
-"Shortcuts" = "바로 가기";
+"Shortcuts" = "단축키";
 
 /* No comment provided by engineer. */
 "Show" = "보기";
@@ -959,10 +959,10 @@
 "Show hidden menu bar items" = "숨겨진 메뉴 바 항목 보기";
 
 /* No comment provided by engineer. */
-"Show in All Spaces" = "모든 공간에 표기";
+"Show in All Spaces" = "모든 공간에 보이기";
 
 /* No comment provided by engineer. */
-"Show Menu Bar Item (Enhanced mode only)" = "메뉴 바 항목 보기(고급 모드 전용)";
+"Show Menu Bar Item (Enhanced mode only)" = "메뉴 바 항목 보기(확장 모드 전용)";
 
 /* No comment provided by engineer. */
 "Show menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "식별자로 메뉴 바 항목 표시: ${itemIdentifier}, X에게: ${x}";
@@ -974,58 +974,58 @@
 "Show Profile in Menu" = "메뉴에서 프로필 보기";
 
 /* No comment provided by engineer. */
-" Items" = "보이는 항목";
+"Shown Items" = "보이는 항목";
 
 /* No comment provided by engineer. */
-" Items:" = "보이는 항목:";
+"Shown Items:" = "보이는 항목:";
 
 /* No comment provided by engineer. */
-" Menu Bar Item" = "보이는 메뉴 바 항목";
+"Shown Menu Bar Item" = "보이는 메뉴 바 항목";
 
 /* No comment provided by engineer. */
-"Small Gap - proper spacing between items" = "작은 간격 -  사이 적절한 간격";
+"Small Gap - proper spacing between items" = "좁은 간격 - 항목 사이 적절한 간격";
 
 /* No comment provided by engineer. */
-"Some of the menu bar items will be moved into a separate menu bar in enhanced mode, this mode requires the user to authorize some necessary permissions (Screen Recording & Accessibility), but there will be no extra permission requests in the normal mode." = "메뉴 바의 일부 항목은 확장모드에서 별도의 메뉴 바로 이동될 것이며, 이 모드에서는 사용자가 일부 필수 권한(화면 녹화 및 접근성)을 승인해야 하지만, 일반 모드에서는 추가 권한 요청이 없을 것입니다.";
+"Some of the menu bar items will be moved into a separate menu bar in enhanced mode, this mode requires the user to authorize some necessary permissions (Screen Recording & Accessibility), but there will be no extra permission requests in the normal mode." = "확장 모드에서 메뉴 바의 일부 항목은 별도의 메뉴 바로 이동되며, 이 모드에서는 사용자가 일부 필수 권한(화면 녹화 및 접근성)을 승인해야 하지만, 일반 모드에서는 추가 권한 요청이 필요하지 않습니다.";
 
 /* No comment provided by engineer. */
-"Something Wrong?" = "무엇이 잘못되었나요?";
+"Something Wrong?" = "문제가 발생했나요?";
 
 /* No comment provided by engineer. */
-"🆘 If the app still prompts that there is no permission after you authorize Barbee, please cancel the authorization of Barbee and delete Barbee in the authorization list, then relaunch Barbee and grant permissions again." = "🆘 Barbee에 대한 권한을 부여한 후에도 앱이 권한이 없다는 메시지가 계속 표시되면, Barbee의 권한을 취소하고 권한 목록에서 Barbee를 삭제한 후, Barbee를 다시 실행하고 권한을 다시 부여하십시오.";
+"🆘 If the app still prompts that there is no permission after you authorize Barbee, please cancel the authorization of Barbee and delete Barbee in the authorization list, then relaunch Barbee and grant permissions again." = "🆘 Barbee에 대한 권한을 부여한 후에도 앱이 권한이 없다는 메시지가 계속 표시되면, Barbee의 권한을 취소하고 권한 목록에서 Barbee를 삭제한 후, Barbee를 다시 실행하고 권한을 다시 부여하세요.";
 
 /* No comment provided by engineer. */
-"Start" = "시작하다";
+"Start" = "시작";
 
 /* No comment provided by engineer. */
-"Start BarBee automatically at login." = "로그인할 때 자동으로 BarBee 시작하십시오.";
+"Start BarBee automatically at login." = "로그인할 때 자동으로 BarBee 시작하세요.";
 
 /* No comment provided by engineer. */
-"Startup:" = "스타트업:";
+"Startup:" = "시작:";
 
 /* No comment provided by engineer. */
 "State" = "상태";
 
 /* No comment provided by engineer. */
-"Switch App Module State" = "Here is the translated XML string:\n\n앱 모듈 상태 전환";
+"Switch App Module State" = "앱 모듈 상태 변경";
 
 /* No comment provided by engineer. */
-"Switch Barbee Mode" = "Barbee 모드로 전환";
+"Switch Barbee Mode" = "Barbee 모드 변경";
 
 /* No comment provided by engineer. */
-"Switch the app module state in menu bar by its identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "메뉴 바에서 식별자(예: \"com.apple.controlcenter-WiFi\")에 따라 앱 모듈 상태를 전환하세요.";
+"Switch the app module state in menu bar by its identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "메뉴 바에서 식별자(예시: \"com.apple.controlcenter-WiFi\")에 따라 앱 모듈 상태를 변경핫요.";
 
 /* No comment provided by engineer. */
-"Switch the app module state:${state} in menu bar by its identifier: ${itemIdentifier}" = "메뉴 바에서 식별자를 통해 앱 모듈 상태를 전환하세요:${state}: ${itemIdentifier}";
+"Switch the app module state:${state} in menu bar by its identifier: ${itemIdentifier}" = "메뉴 바에서 식별자를 통해 앱 모듈 상태를 변경하세요:${state}: ${itemIdentifier}";
 
 /* No comment provided by engineer. */
-"Switch to Enhanced Mode" = "고급 모드로 전환";
+"Switch to Enhanced Mode" = "확장 모드로 전환";
 
 /* No comment provided by engineer. */
 "Switch to Normal Mode" = "일반 모드로 전환";
 
 /* No comment provided by engineer. */
-"Symbol Number" = "기호 번호";
+"Symbol Number" = "심볼 번호";
 
 /* No comment provided by engineer. */
 "Symbol:" = "심볼:";
@@ -1043,7 +1043,7 @@
 "Text" = "텍스트";
 
 /* (No Comment) */
-"Thank you to everyone who supports Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get if for free🆓️. \\n\\n🌐️ If you can help translate Barbee into your languages or improve Barbee's translations, \\nyou will have the lifetime version and your name will be listed in the contributors of Barbee." = "Barbee🖤에게 지지를 보내주시는 모든 분들께 감사드립니다.\n여러분의 격려가 저를 계속 전진하게 하는 연료입니다.\n\n학생이거나, 선생님이거나, 오픈 소스 관리자거나, 혹은 이 유료 버전을 구매하기 어려운 형편이시라면,\n👋 연락 주세요. 무료로 드리겠습니다🆓️.";
+"Thank you to everyone who supports Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get if for free🆓️. \\n\\n🌐️ If you can help translate Barbee into your languages or improve Barbee's translations, \\nyou will have the lifetime version and your name will be listed in the contributors of Barbee." = "Barbee🖤에게 지지를 보내주시는 모든 분들께 감사드립니다.\n여러분의 격려가 저를 계속 전진하게 하는 연료입니다.\n\n학생이거나, 선생님이거나, 오픈 소스 관리자거나, 혹은 유료 버전을 구매하기 어려운 형편이시라면,\n👋 연락 주세요. 무료로 드리겠습니다🆓️.";
 
 /* No comment provided by engineer. */
 "Thanks for purchasing Barbee VIP" = "Barbee VIP를 구매해 주셔서 감사합니다";
@@ -1055,25 +1055,25 @@
 "The automation will be deleted and changes take effect immediately" = "자동화는 삭제되며 변경 사항이 즉시 적용됩니다";
 
 /* No comment provided by engineer. */
-"The beta version may contain bugs or cause issues. Any feedback you can provide is always greatly appreciated." = "베타 버전에는 버그가 포함되어 있거나 문제를 일으킬 수 있습니다. 제공해 주신 모든 피드백은 항상 대단히 감사합니다.";
+"The beta version may contain bugs or cause issues. Any feedback you can provide is always greatly appreciated." = "베타 버전에서는 버그가 있거나 문제가 발생할 수 있습니다. 제공해 주신 모든 피드백에 감사의 말씀드립니다.";
 
 /* No comment provided by engineer. */
 "The changes have been saved, and it will take effect after exiting and restarting the app `%@`." = "변경 사항이 저장되었으며, 앱 `%@`을 종료하고 다시 시작한 후에 적용됩니다.";
 
 /* No comment provided by engineer. */
-"The following modules have been found that may be displayed in the menu bar, you can enable or disable them." = "메뉴 바에 표시될 수 있는 다음 모듈들이 발견되었으며, 활성화하거나 비활성화할 수 있습니다.";
+"The following modules have been found that may be displayed in the menu bar, you can enable or disable them." = "메뉴 바에 표시될 수 있는 다음 모듈들이 발견되었으며, 이를 활성화하거나 비활성화할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"The hidden menu bar icon will appear in a separate menu bar in the upper right corner." = "숨겨진 메뉴 바 아이콘은 오른쪽 상단에 별도의 메뉴 바에 표시됩니다.";
+"The hidden menu bar icon will appear in a separate menu bar in the upper right corner." = "숨겨진 메뉴 바 아이콘은 오른쪽 상단 별도의 메뉴 바에 표시됩니다.";
 
 /* No comment provided by engineer. */
-"The hidden menu bar icons will be collapsed." = "숨겨진 메뉴 바 아이콘들이 접힐 것입니다.";
+"The hidden menu bar icons will be collapsed." = "숨겨진 메뉴 바의 아이콘이 닫힙니다.";
 
 /* No comment provided by engineer. */
-"The hover area of the menu bar include the app menu and Apple logo area" = "메뉴 바의 호버 영역에는 앱 메뉴와 애플 로고 영역이 포함됩니다";
+"The hover area of the menu bar include the app menu and Apple logo area" = "메뉴 바의 호버 영역에 앱 메뉴와 애플 로고 영역이 포함됩니다";
 
 /* No comment provided by engineer. */
-"The iCloud profiles will be replaced by the local profiles, which cannot be restored." = "iCloud 프로필은 복원할 수 없는 로컬 프로필로 대체될 것입니다.";
+"The iCloud profiles will be replaced by the local profiles, which cannot be restored." = "iCloud 프로필은 복원이 불가능한 로컬 프로필로 대체됩니다.";
 
 /* No comment provided by engineer. */
 "The icon may persist in the menu bar. Using this feature may impact user experience." = "아이콘이 메뉴 바에 계속 표시될 수 있습니다. 이 기능을 사용하면 사용자 경험에 영향을 줄 수 있습니다.";
@@ -1082,34 +1082,34 @@
 "The item is invisible" = "항목이 보이지 않습니다";
 
 /* No comment provided by engineer. */
-"The item is invisible because of the top notch, you can hide the notch, adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "해당 항목은 최상위 노치 때문에 보이지 않으나, 노치를 숨기거나 디스플레이의 해상도를 조정하거나 Barbee 환경 설정에서 보이는 항목의 수를 줄임으로써 해결할 수 있습니다.";
+"The item is invisible because of the top notch, you can hide the notch, adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "항목은 노치 때문에 보이지 않습니다. 노치를 숨기거나 디스플레이의 해상도를 변경하거나 Barbee 환경 설정에서 보이는 항목의 수를 줄일 수 있습니다.";
 
 /* No comment provided by engineer. */
 "The item is invisible because the menu bar does not have enough space, you can adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "메뉴 바에 충분한 공간이 없기 때문에 항목이 보이지 않습니다. 디스플레이의 해상도를 조정하거나 Barbee 기본 설정에서 보이는 항목의 수를 줄일 수 있습니다.";
 
 /* No comment provided by engineer. */
-"The local profiles will be replaced by the iCloud profiles, which cannot be restored." = "로컬 프로필들은 iCloud 프로필로 대체될 것이며, 이는 복원될 수 없습니다.";
+"The local profiles will be replaced by the iCloud profiles, which cannot be restored." = "로컬 프로필은 복원이 불가능한 iCloud 프로필로 대체됩니다.";
 
 /* No comment provided by engineer. */
-"The patch has been imported." = "패치가 가져오기되었습니다.";
+"The patch has been imported." = "패치를 가져왔습니다.";
 
 /* No comment provided by engineer. */
-"The profile has been exported." = "프로필이 내보내졌습니다.";
+"The profile has been exported." = "프로필을 내보냈습니다.";
 
 /* No comment provided by engineer. */
-"The profile has been imported." = "프로필이 가져오기되었습니다.";
+"The profile has been imported." = "프로필을 가져왔습니다.";
 
 /* No comment provided by engineer. */
-"The selected item is not in the menu bar now" = "선택한 항목이 지금 메뉴 바에 없습니다";
+"The selected item is not in the menu bar now" = "선택한 항목이 현재 메뉴 바에 없습니다";
 
 /* No comment provided by engineer. */
-"The shadow below the menu bar" = "메뉴 바 아래의 그림자";
+"The shadow below the menu bar" = "메뉴 바 하단의 그림자";
 
 /* No comment provided by engineer. */
-"The shadow in the menu bar" = "메뉴 바의 그림자";
+"The shadow in the menu bar" = "메뉴 바 내의 그림자";
 
 /* No comment provided by engineer. */
-"The shortcut will be deleted and changes take effect immediately" = "바로가기가 삭제되며 변경 사항은 즉시 적용됩니다";
+"The shortcut will be deleted and changes take effect immediately" = "단축키가 삭제되며 변경 사항은 즉시 적용됩니다";
 
 /* No comment provided by engineer. */
 "Then: %@" = "그럼: %@";
@@ -1121,7 +1121,7 @@
 "This prompt will appear when Barbee is running on the new macOS to capture the screenshot of menu bar items. \\n⛔️ Barbee is an offline app with no network permissions." = "이 안내 메시지는 Barbee가 새로운 macOS에서 메뉴 바 항목의 스크린샷을 캡처할 때 나타납니다. \n⛔️ Barbee는 네트워크 권한이 없는 오프라인 앱입니다.";
 
 /* No comment provided by engineer. */
-"Top Notch" = "최고 수준";
+"Top Notch" = "상단 노치";
 
 /* No comment provided by engineer. */
 "Topmost" = "최상위";
@@ -1136,13 +1136,13 @@
 "Upgrade to Barbee VIP" = "Barbee VIP로 업그레이드하세요";
 
 /* No comment provided by engineer. */
-"Use Barbee in enhanced mode?" = "Barbee를 확장모드에서 사용하시겠습니까?";
+"Use Barbee in enhanced mode?" = "Barbee를 확장 모드에서 사용하시겠습니까?";
 
 /* No comment provided by engineer. */
-"Use in Shortcuts" = "바로가기에서 사용";
+"Use in Shortcuts" = "단축키에서 사용";
 
 /* No comment provided by engineer. */
-"Use redeem code" = "코드를 사용하십시오";
+"Use redeem code" = "리딤 코드를 사용하세요";
 
 /* No comment provided by engineer. */
 "View iCloud profiles" = "iCloud 프로필 보기";
@@ -1157,43 +1157,43 @@
 "When hovering for more than a certain period of time, show hidden items." = "일정 시간 이상 호버링할 때 숨겨진 항목을 표시합니다.";
 
 /* No comment provided by engineer. */
-"When hovering over the menu bar, hidden items will be  automatically" = "메뉴 바 위로 마우스를 올리면 숨겨진 항목이 자동으로 표시됩니다";
+"When hovering over the menu bar, hidden items will be shown automatically" = "메뉴 바 위로 마우스를 올리면 숨겨진 항목이 자동으로 표시됩니다";
 
 /* No comment provided by engineer. */
-"When hovering over the menu of the app or the Apple(🍎) logo, hidden items will be also  automatically" = "앱의 메뉴나 애플(🍎) 로고 위에 마우스를 올리면 숨겨진 항목들도 자동으로 표시됩니다";
+"When hovering over the menu of the app or the Apple(🍎) logo, hidden items will be also shown automatically" = "앱 메뉴나 애플(🍎) 로고 위에 마우스를 올려도 숨겨진 항목들이 자동으로 표시됩니다";
 
 /* No comment provided by engineer. */
-"When leaving the menu bar, hidden items will be hidden again" = "메뉴 바를 벗어날 때, 숨겨진 항목들은 다시 숨겨질 것입니다";
+"When leaving the menu bar, hidden items will be hidden again" = "메뉴 바를 벗어날 때, 숨겨진 항목들은 다시 숨겨집니다";
 
 /* No comment provided by engineer. */
-"When the external screen becomes the focus, all menu bar items will be visible, and when the focus is lost, they will be hidden again." = "외부 화면이 중심이 될 때, 모든 메뉴 바 들이 보이게 되고, 포커스를 잃으면 다시 숨겨질 것입니다.";
+"When the external screen becomes the focus, all menu bar items will be visible, and when the focus is lost, they will be hidden again." = "외장 모니터에 포커스가 될 때, 모든 메뉴 바 항목이 표시되고, 포커스를 잃으면 다시 숨겨질 것입니다.";
 
 /* No comment provided by engineer. */
 "When there is a problem with Barbee, you can try to relaunch Barbee to solve this problem." = "문제가 발생하면 Barbee를 다시 실행하여 이 문제를 해결할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"When you click on the blank area of the menu bar, Barbee will toggle showing hidden items." = "메뉴 바의 빈 영역을 클릭하면 Barbee가 숨겨진 항목을 표시하거나 숨기기를 전환합니다.";
+"When you click on the blank area of the menu bar, Barbee will toggle showing hidden items." = "메뉴 바의 빈 영역을 클릭하면 Barbee가 숨겨진 항목을 표시하거나 숨깁니다.";
 
 /* No comment provided by engineer. */
-"When you click on the menu bar icon, Barbee will toggle showing hidden items instead of Barbee menu. The Barbee menu will be displayed when you right-click the menu bar icon." = "메뉴 바 아이콘을 클릭하면 Barbee 메뉴 대신 숨겨진 항목이 표시되도록 Barbee가 전환됩니다. 메뉴 바 아이콘을 마우스 오른쪽 버튼으로 클릭하면 Barbee 메뉴가 표시됩니다.";
+"When you click on the menu bar icon, Barbee will toggle showing hidden items instead of Barbee menu. The Barbee menu will be displayed when you right-click the menu bar icon." = "메뉴 바 아이콘을 클릭하면 Barbee 메뉴 대신 숨겨진 항목을 표시하거나 숨깁니다. 메뉴 바 아이콘을 우클릭하면 Barbee 메뉴가 표시됩니다.";
 
 /* No comment provided by engineer. */
-"When you hold CONTROL(⌃) and click on the menu bar icon, Barbee will toggle showing / hiding all items." = "당신이 CONTROL(⌃)을 누르고 메뉴 바 아이콘을 클릭하면, Barbee는 모든 항목들을 보이거나 숨기도록 전환할 것입니다.";
+"When you hold CONTROL(⌃) and click on the menu bar icon, Barbee will toggle showing / hiding all items." = "CONTROL(⌃)을 누르고 메뉴 바 아이콘을 클릭하면, Barbee는 모든 항목을 표시하거나 숨깁니다.";
 
 /* No comment provided by engineer. */
-"When you hold CONTROL(⌃) and click on the menu bar, Barbee will toggle showing / hiding all items." = "당신이 컨트롤(⌃)을 누르고 메뉴 바를 클릭할 때, Barbee는 모든 들을 보이거나 숨기도록 토글합니다.";
+"When you hold CONTROL(⌃) and click on the menu bar, Barbee will toggle showing / hiding all items." = "CONTROL(⌃)을 누르고 메뉴 바를 클릭하면, Barbee는 모든 항목을 표시하거나 숨깁니다.";
 
 /* No comment provided by engineer. */
-"When you hold OPTION(⌥) and click on the menu bar icon, Barbee will toggle showing / hiding hidden items." = "당신이 옵션(⌥)을 누르고 메뉴 바 아이콘을 클릭할 때, Barbee는 숨겨진 항목의 표시 / 숨기기를 전환합니다.";
+"When you hold OPTION(⌥) and click on the menu bar icon, Barbee will toggle showing / hiding hidden items." = "OPTION(⌥)을 누르고 메뉴 바 아이콘을 클릭하면, Barbee는 숨겨진 항목을 표시하거나 숨깁니다.";
 
 /* No comment provided by engineer. */
 "When: %@" = "언제: %@";
 
 /* No comment provided by engineer. */
-"Whether you do love Barbee or feel we could be doing better, we want to know!" = "Barbee를 사랑하든, 더 잘할 수 있다고 느끼든, 우리는 여러분의 생각을 알고 싶어요!";
+"Whether you do love Barbee or feel we could be doing better, we want to know!" = "Barbee를 좋아하시거나, 더 나아질 점이 있다고 생각하신다면, 여러분의 생각을 알려주세요!";
 
 /* No comment provided by engineer. */
-"Which mode of tutorial would you like to see?" = "어떤 형식의 튜토리얼을 보고 싶으신가요?";
+"Which mode of tutorial would you like to see?" = "어떤 모드의 튜토리얼을 보고 싶으신가요?";
 
 /* No comment provided by engineer. */
 "Widget" = "위젯";
@@ -1202,7 +1202,7 @@
 "Widget Entry:" = "위젯 항목:";
 
 /* No comment provided by engineer. */
-"Widget feature requires additional permissions!" = "위젯 기능은 추가 권한을 요구합니다!";
+"Widget feature requires additional permissions!" = "위젯 기능은 추가 권한이 필요합니다!";
 
 /* No comment provided by engineer. */
 "Width" = "너비";
@@ -1229,37 +1229,37 @@
 "Yes" = "예";
 
 /* No comment provided by engineer. */
-"You can change the location of Barbee's menu bar icon in the `Menu Bar Layout` setting" = "당신은 `메뉴 바 레이아웃` 설정에서 Barbee의 메뉴 바 아이콘 위치를 변경할 수 있습니다";
+"You can change the location of Barbee's menu bar icon in the `Menu Bar Layout` setting" = "`메뉴 바 배열` 설정에서 Barbee의 메뉴 바 아이콘 위치를 변경하세요.";
 
 /* No comment provided by engineer. */
-"You can check out the quick start guide to learn more about the two modes of Barbee." = "빠른 시작 가이드를 확인하여 Barbee의 두 가지 모드에 대해 더 자세히 알아볼 수 있습니다.";
+"You can check out the quick start guide to learn more about the two modes of Barbee." = "빠른 시작 가이드를 확인하여 Barbee의 두 가지 모드에 대해 더 자세히 알아보세요.";
 
 /* No comment provided by engineer. */
-"You can enable or disable the `Profile` entry in Barbee's menu." = "Barbee의 메뉴에서 `프로필` 항목을 활성화하거나 비활성화할 수 있습니다.";
+"You can enable or disable the `Profile` entry in Barbee's menu." = "Barbee 메뉴에서 `프로필` 항목을 활성화하거나 비활성화할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"You can enable or disable the `Quick Search` entry in Barbee's menu." = "Barbee의 메뉴에서 `빠른 검색` 항목을 활성화하거나 비활성화할 수 있습니다.";
+"You can enable or disable the `Quick Search` entry in Barbee's menu." = "Barbee 메뉴에서 `빠른 검색` 항목을 활성화하거나 비활성화할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"You can enable or disable the `Widget` entry in Barbee's menu." = "Barbee의 메뉴에서 `위젯` 항목을 활성화하거나 비활성화할 수 있습니다.";
+"You can enable or disable the `Widget` entry in Barbee's menu." = "Barbee 메뉴에서 `위젯` 항목을 활성화하거나 비활성화할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"You can export diagnostic logs and send them back to the developer, which can help the developer resolve your issue." = "개발자에게 진단 로그를 내보내고 다시 보낼 수 있으며, 이는 개발자가 문제를 해결하는 데 도움이 될 수 있습니다.";
+"You can export diagnostic logs and send them back to the developer, which can help the developer resolve your issue." = "진단 로그를 내보내고 개발자에게 전송할 수 있으며, 이는 개발자가 문제를 해결하는 데 도움이 됩니다.";
 
 /* No comment provided by engineer. */
-"You can modify the layout of the extra menu bar in the app's preferences window" = "앱의 환경 설정 창에서 추가 메뉴 바의 레이아웃을 수정할 수 있습니다";
+"You can modify the layout of the extra menu bar in the app's preferences window" = "앱의 설정 창에서 추가 메뉴 바의 배열을 수정할 수 있습니다";
 
 /* No comment provided by engineer. */
-"You have unlocked all the features for 3 days, enjoy it now!" = "3일 동안 모든 기능의 잠금을 해제했습니다, 지금 즐기세요!";
+"You have unlocked all the features for 3 days, enjoy it now!" = "3일 동안 모든 기능의 잠금을 해제했습니다. 지금 즐기세요!";
 
 /* No comment provided by engineer. */
-"You have unlocked all the features, enjoy it now!" = "모든 기능이 잠금 해제되었습니다, 지금 즐기세요!";
+"You have unlocked all the features, enjoy it now!" = "모든 기능이 잠금 해제되었습니다. 지금 즐기세요!";
 
 /* No comment provided by engineer. */
-"Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase." = "구매를 확인하면 결제금액이 iTunes 계정에 청구됩니다. 현재 구독 기간이 종료되기 최소 24시간 전에 자동 갱신을 끄지 않는 한, 구독이 자동 갱신될 때 iTunes 계정에 다시 청구됩니다. 구매 후 언제든지 Apple ID 계정 설정에서 자동 갱신을 관리하거나 끌 수 있습니다.";
+"Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase." = "구매를 결정하면 결제금액이 iTunes 계정에 청구됩니다. 현재 구독 기간이 종료되기 최소 24시간 전에 자동 갱신을 끄지 않는 한, 구독이 자동 갱신될 때 iTunes 계정에 다시 청구됩니다. 구매 후 언제든지 Apple ID 계정 설정에서 자동 갱신을 관리하거나 끌 수 있습니다.";
 
 /* No comment provided by engineer. */
-"When the screen width is wide enough, menu bar icons will be no longer hidden" = "화면 폭이 충분히 넓으면 메뉴 바 아이콘이 더 이상 숨겨지지 않습니다";
+"When the screen width is wide enough, menu bar icons will be no longer hidden" = "화면 폭이 충분히 넓으면 메뉴 바 아이콘이 숨겨지지 않습니다";
 
 /* No comment provided by engineer. */
 "The screen width threshold" = "화면 폭 임계값";
@@ -1271,7 +1271,7 @@
 "Found screen size(s):" = "발견된 화면 크기:";
 
 /* No comment provided by engineer. */
-"Reset All" = "모두 재설정";
+"Reset All" = "전체 재설정";
 
 /* No comment provided by engineer. */
 "Reset to default appearance:" = "기본 외관으로 재설정:";
@@ -1280,16 +1280,16 @@
 "Follow us" = "팔로우하세요";
 
 /* No comment provided by engineer. */
-"Translate Barbee" = "Barbee 번역";
+"Translate Barbee" = "Barbee 번역하기";
 
 /* No comment provided by engineer. */
-"Start Translating" = "번역 시작";
+"Start Translating" = "번역 시작하기";
 
 /* No comment provided by engineer. */
 "💦Contributors" = "💦기여자";
 
 /* No comment provided by engineer. */
-"Special thanks to users for helping with Barbee Localization! 🌍🌎🌏" = "Barbee 지역화를 도와주신 사용자분들께 특별히 감사드립니다! 🌍🌎🌏";
+"Special thanks to users for helping with Barbee Localization! 🌍🌎🌏" = "Barbee 번역을 도와주신 사용자분들께 특별히 감사드립니다! 🌍🌎🌏";
 
 /* No comment provided by engineer. */
 "👋Translating Barbee" = "👋Barbee 번역하기";
@@ -1316,7 +1316,7 @@
 "Use the more optimized menu bar icon management algorithm" = "더 최적화된 메뉴 바 아이콘 관리 알고리즘 사용";
 
 /* No comment provided by engineer. */
-"Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout." = "팁: command ⌘을 누른 상태에서 메뉴 바의 아이콘을 드래그하여 메뉴 바의 레이아웃을 변경할 수 있습니다.";
+"Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout." = "Tip: COMMAND(⌘)를 누른 상태에서 메뉴 바의 아이콘을 드래그하여 배열을 변경할 수 있습니다.";
 
 /* No comment provided by engineer. */
 "Special Item Library:" = "특수 항목 라이브러리:";
@@ -1337,10 +1337,10 @@
 "Spacer width: %d" = "공간 너비: %d";
 
 /* No comment provided by engineer. */
-"Automatically hide other items before showing hidden items" = "숨겨진 항목을 표시하기 전에 다른 항목을 자동으로 숨김";
+"Automatically hide other items before showing hidden items" = "숨겨진 항목을 표시하기 전에 다른 항목을 자동으로 숨깁니다";
 
 /* No comment provided by engineer. */
-"Show hidden items more concisely and focused, but only works in 'Enhanced Mode'" = "숨겨진 항목을 더 간결하고 집중적으로 표시하지만 '확장모드'에서만 작동";
+"Show hidden items more concisely and focused, but only works in 'Enhanced Mode'" = "숨겨진 항목을 더 간결하고 집중적으로 표시하지만, '확장 모드'에서만 작동합니다";
 
 /* No comment provided by engineer. */
 "Items in group:" = "그룹 내 항목:";
@@ -1355,10 +1355,10 @@
 "No name" = "이름 없음";
 
 /* No comment provided by engineer. */
-"Drop down menu bar participates in macOS window cycling" = "드롭다운 메뉴 바가 macOS 창 순환에 참여";
+"Drop down menu bar participates in macOS window cycling" = "드롭다운 메뉴 바가 macOS 창 순환에 포함";
 
 /* No comment provided by engineer. */
-"The drop down menu bar can become the user's active window." = "드롭다운 메뉴 바가 사용자의 활성 창이 될 수 있음.";
+"The drop down menu bar can become the user's active window." = "드롭다운 메뉴 바가 사용자의 활성화된 창이 될 수 있음.";
 
 /* No comment provided by engineer. */
 "Show group on click" = "클릭 시 그룹 표시";
@@ -1370,10 +1370,10 @@
 "Auto sync with iCloud" = "iCloud와 자동 동기화";
 
 /* No comment provided by engineer. */
-"Rename" = "이름 바꾸기";
+"Rename" = "이름 변경";
 
 /* No comment provided by engineer. */
-"Matches icon state" = "아이콘 상태와 일치";
+"Matches icon state" = "아이콘 상태와 일치함";
 
 /* No comment provided by engineer. */
 "Does not match icon state" = "아이콘 상태와 일치하지 않음";
@@ -1382,13 +1382,13 @@
 "Battery state" = "배터리 상태";
 
 /* No comment provided by engineer. */
-"Power source" = "전원 출처";
+"Power source" = "전원 공급";
 
 /* No comment provided by engineer. */
-"⚡️Any Power Source" = "⚡️어떤 전원 출처";
+"⚡️Any Power Source" = "⚡️모든 전원 공급";
 
 /* No comment provided by engineer. */
 "🔋 Battery" = "🔋 배터리";
 
 /* No comment provided by engineer. */
-"🔌 Power Adapter" = "🔌 전원 어댑터";
+"🔌 Power Adapter" = "🔌 어댑터";
